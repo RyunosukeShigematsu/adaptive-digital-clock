@@ -1,4 +1,4 @@
-# DigitalClock
+# adaptive-digital-clock
 
 学部4年次の研究の一環として制作した  
 **Android デジタル時計アプリ**です。
